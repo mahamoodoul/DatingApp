@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "p6Xe3ZE3tFH6s6iZMYIrCbxXWlylN0FbrgLQW0vsuZE3Ws3C7bveLXo6DEYEn4nfJkfJU963t2tjpBoHqKr1Ww==",
+  "dgSpecHash": "Hn+mQ9ylyRDGDJ+tROhGP3DeP7pMfgzWp0usTMs5boKU7Ux7+DEyifrazXAS5aibPkTiLqbXbnQE2RkxpzzUkA==",
   "success": true,
   "projectFilePath": "/Users/mdmahamodullslam/Dev/DatingApp/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/mdmahamodullslam/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/mdmahamodullslam/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/mdmahamodullslam/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.7/microsoft.aspnetcore.authentication.jwtbearer.8.0.7.nupkg.sha512",
     "/Users/mdmahamodullslam/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
