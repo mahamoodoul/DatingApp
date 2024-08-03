@@ -132,3 +132,5 @@
 /Users/mdmahamodullslam/Dev/DatingApp/API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/mdmahamodullslam/Dev/DatingApp/API/bin/Debug/net8.0/Data/UserSeedData.json
 /Users/mdmahamodullslam/Dev/DatingApp/API/bin/Debug/net8.0/AutoMapper.dll
+/Users/mdmahamodullslam/Dev/DatingApp/API/bin/Debug/net8.0/CloudinaryDotNet.dll
+/Users/mdmahamodullslam/Dev/DatingApp/API/bin/Debug/net8.0/Newtonsoft.Json.dll
