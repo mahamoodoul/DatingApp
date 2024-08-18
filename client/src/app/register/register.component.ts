@@ -14,7 +14,6 @@ import { Router } from '@angular/router';
     styleUrl: './register.component.css',
     imports: [ReactiveFormsModule, NgIf, TextInputComponent, DatePickerComponent]
 })
-
 export class RegisterComponent implements OnInit {
   private accountService = inject(AccountService);
   private fb = inject(FormBuilder);
